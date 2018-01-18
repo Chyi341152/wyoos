@@ -16,11 +16,15 @@ Source codes for the "Write your own Operating System" video-series on YouTube
 # FQA:
    
    1. How do I know my KDE version?
-      A: $ kate --version
-         Qt: 4.8.6
+      A: ```bash
+      $ kate --version
+      ```
+      Qt: 4.8.6
          KDE Development Platform: 4.14.2 
          Kate: 3.14.2 
-      B: $ konsole --version
+      B: ```bash
+      $ konsole --version
+      ```
          Qt: 4.8.6
          KDE Development Platform: 4.14.2 
          Konsole: 2.14.2 
